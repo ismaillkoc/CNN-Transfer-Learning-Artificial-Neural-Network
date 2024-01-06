@@ -1,4 +1,4 @@
-# Python ile Muz Meyvesi Gelişim Evreleri Sınıflandırması: CNN, Transfer Learning ve Yapay Sinir Ağı
+# Python ile Muz Meyvesi Gelişim Evreleri Sınıflandırması: CNN, Transfer Learning ve Artifical Neural Network
 
 ℹ️ Dersin Kodu: YAZ20411  
 ℹ️ Dersin Adı: DERİN ÖĞRENME  
