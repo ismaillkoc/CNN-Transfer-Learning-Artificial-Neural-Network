@@ -4,9 +4,10 @@
 ℹ️ Dersin Adı: DERİN ÖĞRENME
 ℹ️ Dersin Öğretim Elemanı: Öğr. Gör. Dr. Fatih BAL Github | Web Sayfası
 
-Grup Bilgileri
-Öğrenci No	Adı Soyadı	   Bölüm	               Proje Grup No	Grup Üyelerinin Github Profilleri
-1190505070	İsmail KOÇ	   Yazılım Mühendisliği	PROJE_1	      Github
+Öğrenci No	Adı Soyadı	Bölüm	Proje Grup No	Grup Üyelerinin Github Profilleri
+123456789	Fatih BAL	Yazılım Mühendisliği	PROJE_1	Github
+987654321	Öğrenci Adı Soyadı	Yazılım Mühendisliği	PROJE_1	Github
+456789123	Öğrenci Adı Soyadı	Yazılım Mühendisliği	PROJE_1	Github
 
 Proje Açıklaması
 
