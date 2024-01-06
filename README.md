@@ -42,11 +42,11 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
    - Google Drive'ınıza gidin ve veri setinizi yükleyin veya sürükleyip bırakın.
 
 4. **Veri Seti Yolu Belirleme:**
-   - Kodun aşağıdaki satırında yüklediğiniz dosyanın yolunu değiştirin.
+   - Kodun aşağıdaki satırında yüklediğiniz dosyanın yolunu değiştirin veya aynı isimde klasörler oluşturun.
 
      DATA = '/gdrive/MyDrive/Banana_Ripeness_Classification'
 
-   - Farklı bir veri seti kullanılacaksa veya kod değiştirilecekse veri setindeki kategori isimlerini uygun isimlerle değiştirmeniz veya kaldırmanız gerekecektir.
+   - Farklı bir veri seti kullanılacaksa veya kod değiştirilecekse veri setindeki kategori isimlerini uygun isimlerle değiştirmeniz veya kaldırmanız gerekecektir.  
      KATEGORILER =  ['overripe', 'ripe', 'rotten', 'unripe']
      
 5. **Proje Hiperparametreleri ve Açıklamaları**
