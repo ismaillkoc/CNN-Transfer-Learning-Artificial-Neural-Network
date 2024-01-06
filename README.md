@@ -1,19 +1,19 @@
 # Python ile Muz Meyvesi Gelişim Evreleri Sınıflandırması: CNN, Transfer Learning ve Yapay Sinir Ağı
 
-ℹ️ Dersin Kodu: YAZ20411
-ℹ️ Dersin Adı: DERİN ÖĞRENME
-ℹ️ Dersin Öğretim Elemanı: Öğr. Gör. Dr. Fatih BAL Github | Web Sayfası
+ℹ️ Dersin Kodu: YAZ20411  
+ℹ️ Dersin Adı: DERİN ÖĞRENME  
+ℹ️ Dersin Öğretim Elemanı: Öğr. Gör. Dr. Fatih BAL Github | Web Sayfası  
 
 Grup Bilgileri
 
 | Öğrenci No  | Adı Soyadı           | Bölüm               | Proje Grup No | Grup Üyelerinin Github Profilleri |
 |-------------|----------------------|---------------------|---------------|-----------------------------------|
-| 123456789   | Fatih BAL            | Yazılım Mühendisliği| PROJE_1       | [Github](https://github.com/fatihbal)   |
+| 1190505070  | İsmail KOÇ           | Yazılım Mühendisliği| PROJE_1       | [Github](https://github.com/isody10)   |
 | 987654321   | Öğrenci Adı Soyadı   | Yazılım Mühendisliği| PROJE_1       | [Github](https://github.com/ogrenci1)   |
 | 456789123   | Öğrenci Adı Soyadı   | Yazılım Mühendisliği| PROJE_1       | [Github](https://github.com/ogrenci2)   |
 
 
-Proje Açıklaması
+## Proje Açıklaması
 
 Bu proje, muz meyvesinin farklı gelişim evrelerini sınıflandırmak için kullanılan bir yapay zeka modelini içermektedir. CNN, Transfer Learning ve Yapay Sinir Ağı (ANN) kullanılarak, Python programlama dili ile geliştirilmiştir.
 
