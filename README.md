@@ -58,6 +58,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 
   6. **Sonuçlar:**
 
+     %80 Eğitim %20 Test Sonuçları
      Toplam Çalışma Zamanı: ~ 9 saat
 
      - İlk Model (GridSearchCV ile Hiperparametre Ayarlaması):  
@@ -66,9 +67,26 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
      Sınıflandırma raporu ve karmaşıklık matrisi: İyi performans, özellikle 'overripe' ve 'rotten' sınıfları için yüksek doğruluk.
 
      - Transfer Learning Modeli (ResNet50):  
-         Test başarısı: 0.800 (80%)  
-         Sınıflandırma raporu ve karmaşıklık matrisi: İlk modele göre biraz daha düşük performans, özellikle 'ripe' sınıfında daha düşük doğruluk.
+     Test başarısı: 0.800 (80%)  
+     Sınıflandırma raporu ve karmaşıklık matrisi: İlk modele göre biraz daha düşük performans, özellikle 'ripe' sınıfında daha düşük doğruluk.
 
      - Yapay Sinir Ağı Modeli:  
-         Test başarısı: 0.334 (33.4%)  
-         Sınıflandırma raporu ve karmaşıklık matrisi: Diğer modellere göre çok daha düşük performans, özellikle 'overripe', 'ripe', ve 'rotten' sınıflarında çok düşük doğruluk.
+     Test başarısı: 0.334 (33.4%)  
+     Sınıflandırma raporu ve karmaşıklık matrisi: Diğer modellere göre çok daha düşük performans, özellikle 'overripe', 'ripe', ve 'rotten' sınıflarında çok düşük doğruluk.
+
+
+     %70 Eğitim %30 Test Sonuçları
+     Toplam Çalışma Zamanı: ~ 6 saat 40 dakika
+     
+     - İlk Model (GridSearchCV ile Hiperparametre Ayarlaması):  
+     En İyi Parametreler: {'optimizer': 'adam'}  
+     Test Başarısı: %43.3  
+     Sınıflandırma Raporu ve Karmaşıklık Matrisi: Model, özellikle 'overripe' ve 'rotten' sınıflarında düşük doğruluk oranlarıyla zayıf bir performans sergilemiştir.
+   
+     - Transfer Learning Modeli (ResNet50):  
+     Test Başarısı: %91.9  
+     Sınıflandırma Raporu ve Karmaşıklık Matrisi: Yüksek test başarısı ile model, 'ripe' sınıfında daha düşük doğruluk oranına sahip olsa da genel olarak güçlü bir performans göstermiştir.
+   
+     - Yapay Sinir Ağı Modeli:  
+     Test Başarısı: %33.6  
+     Sınıflandırma Raporu ve Karmaşıklık Matrisi: Düşük test başarısı ve özellikle 'overripe', 'ripe' ve 'rotten' sınıflarında düşük doğruluk oranlarıyla zayıf bir performans göstermiştir.
