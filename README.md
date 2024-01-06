@@ -60,15 +60,15 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 
      Toplam Çalışma Zamanı: ~ 9 saat
 
-     - İlk Model (GridSearchCV ile Hiperparametre Ayarlaması): 
-         En iyi parametreler: {'optimizer': 'adam'}  
-         Test başarısı: 0.881 (88.1%)  
-         Sınıflandırma raporu ve karmaşıklık matrisi: İyi performans, özellikle 'overripe' ve 'rotten' sınıfları için yüksek doğruluk.
+     - İlk Model (GridSearchCV ile Hiperparametre Ayarlaması):  
+     En iyi parametreler: {'optimizer': 'adam'}  
+     Test başarısı: 0.881 (88.1%)  
+     Sınıflandırma raporu ve karmaşıklık matrisi: İyi performans, özellikle 'overripe' ve 'rotten' sınıfları için yüksek doğruluk.
 
-     - Transfer Learning Modeli (ResNet50):
-         Test başarısı: 0.800 (80%)
+     - Transfer Learning Modeli (ResNet50):  
+         Test başarısı: 0.800 (80%)  
          Sınıflandırma raporu ve karmaşıklık matrisi: İlk modele göre biraz daha düşük performans, özellikle 'ripe' sınıfında daha düşük doğruluk.
 
-     - Yapay Sinir Ağı Modeli:
-         Test başarısı: 0.334 (33.4%)
+     - Yapay Sinir Ağı Modeli:  
+         Test başarısı: 0.334 (33.4%)  
          Sınıflandırma raporu ve karmaşıklık matrisi: Diğer modellere göre çok daha düşük performans, özellikle 'overripe', 'ripe', ve 'rotten' sınıflarında çok düşük doğruluk.
