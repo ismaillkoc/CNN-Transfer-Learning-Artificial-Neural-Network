@@ -106,3 +106,15 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
      - Yapay Sinir Ağı Modeli:  
      Test Başarısı: %33.6  
      Sınıflandırma Raporu ve Karmaşıklık Matrisi: Düşük test başarısı ve özellikle 'overripe', 'ripe' ve 'rotten' sınıflarında düşük doğruluk.
+
+
+## Katkılar
+ 
+Projeyi yaparken hangi kaynaklardan bilgi edinildi
+
+## İletişim
+
+Proje Google Colab Linkleri  
+
+%80 Eğitim %20 Test :  
+%70 Eğitim %30 Test :  
