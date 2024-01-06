@@ -81,7 +81,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
      - İlk Model (GridSearchCV ile Hiperparametre Ayarlaması):  
      En İyi Parametreler: {'optimizer': 'adam'}  
      Test Başarısı: %43.3  
-     Sınıflandırma Raporu ve Karmaşıklık Matrisi: Model, özellikle 'overripe' ve 'rotten' sınıflarında düşük doğruluk oranlarıyla zayıf bir performans sergilemiştir.
+     Sınıflandırma Raporu ve Karmaşıklık Matrisi: Model, özellikle 'overripe' ve 'rotten' sınıflarında düşük doğruluk.
    
      - Transfer Learning Modeli (ResNet50):  
      Test Başarısı: %91.9  
@@ -89,4 +89,4 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
    
      - Yapay Sinir Ağı Modeli:  
      Test Başarısı: %33.6  
-     Sınıflandırma Raporu ve Karmaşıklık Matrisi: Düşük test başarısı ve özellikle 'overripe', 'ripe' ve 'rotten' sınıflarında düşük doğruluk oranlarıyla zayıf bir performans göstermiştir.
+     Sınıflandırma Raporu ve Karmaşıklık Matrisi: Düşük test başarısı ve özellikle 'overripe', 'ripe' ve 'rotten' sınıflarında düşük doğruluk.
