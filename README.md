@@ -58,7 +58,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 
   6. **Sonuçlar:**
 
-     %80 Eğitim %20 Test Sonuçları
+     %80 Eğitim %20 Test Sonuçları  
      Toplam Çalışma Zamanı: ~ 9 saat
 
      - İlk Model (GridSearchCV ile Hiperparametre Ayarlaması):  
@@ -75,7 +75,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
      Sınıflandırma raporu ve karmaşıklık matrisi: Diğer modellere göre çok daha düşük performans, özellikle 'overripe', 'ripe', ve 'rotten' sınıflarında çok düşük doğruluk.
 
 
-     %70 Eğitim %30 Test Sonuçları
+     %70 Eğitim %30 Test Sonuçları  
      Toplam Çalışma Zamanı: ~ 6 saat 40 dakika
      
      - İlk Model (GridSearchCV ile Hiperparametre Ayarlaması):  
