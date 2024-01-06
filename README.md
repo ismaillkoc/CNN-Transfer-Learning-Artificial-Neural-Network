@@ -12,6 +12,20 @@ Bu proje, muz meyvesinin görsel verilerini kullanarak, meyvenin farklı gelişi
 - Ürün kalitesini artırabilir ve iş süreçlerini optimize edebilir.
 - Makine öğrenimi ve görüntü sınıflandırma konularında ilgilenenler için eğitim amacı taşır.
 
-## Başlangıç
+## Nasıl Kullanılır?
 
-1. 
+Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağıda projeyi çalıştırmak için adımları bulabilirsiniz:
+
+1. **Google Colab Girişi:**
+   - Google Colab üzerine [buradan](https://colab.research.google.com/) gidin ve Google hesabınıza giriş yapın.
+
+2. **Proje Ekleme:**
+   - Sol üst köşede bulunan "Dosya" menüsünden "Yeni Notebook" seçeneğini kullanarak yeni bir Colab Notebook oluşturun.
+   - GitHub'dan kopyaladığınız kodu Colab Notebook içine ekleyin.
+
+3. **Veri Seti Yolu Belirleme:**
+   - Kodun aşağıdaki satırında yüklediğiniz dosyanın yolunu değiştirin.
+       from google.colab import drive
+       drive.mount('/content/gdrive')
+
+
