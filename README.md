@@ -111,9 +111,9 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 ## Katkılar
 
 [Deep Tutorial 1 ANN and Classification](https://www.kaggle.com/code/shrutimechlearn/deep-tutorial-1-ann-and-classification)  
-[Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn?hl=tr)
-[Introduction to Artificial Neural Network Python](https://k21academy.com/datascience-blog/deep-learning/artificial-neural-network/)
-[Transfer Leraning](https://www.tensorflow.org/tutorials/images/transfer_learning?hl=tr)
+[Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn?hl=tr)  
+[Introduction to Artificial Neural Network Python](https://k21academy.com/datascience-blog/deep-learning/artificial-neural-network/)  
+[Transfer Leraning](https://www.tensorflow.org/tutorials/images/transfer_learning?hl=tr)  
 
 ## İletişim
 
