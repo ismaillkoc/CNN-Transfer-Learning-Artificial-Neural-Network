@@ -4,7 +4,7 @@ Bu proje, muz meyvesinin farklı gelişim evrelerini sınıflandırmak için kul
 
 ## Proje Ne İşe Yarar?
 
-Bu proje, muz meyvesinin görsel verilerini kullanarak, meyvenin farklı gelişim evrelerini sınıflandırmak için bir model içerir. Bu, tarım endüstrisinde, ürün kalitesini değerlendirmek veya üretim süreçlerini optimize etmek için kullanılabilir.
+Bu proje, muz meyvesinin görsel verilerini kullanarak, meyvenin farklı gelişim evrelerini sınıflandırmak için bir model içerir. Bu, ürün kalitesini değerlendirmek veya üretim süreçlerini optimize etmek için kullanılabilir.
 
 ## Neden Faydalıdır?
 
