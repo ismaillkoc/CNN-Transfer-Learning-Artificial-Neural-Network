@@ -31,7 +31,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 
       DATA = '/gdrive/MyDrive/odev_dosya/Banana_Ripeness_Classification'
      
-4. **Değ:**
+4. **Proje Hiperparametreleri ve Açıklamaları:**
    
    - Eğitim Verisi:
       Daha fazla eğitim verisi genellikle daha iyi genelleme sağlar ancak bu, daha uzun eğitim süreleri gerektirebilir.
