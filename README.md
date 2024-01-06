@@ -19,13 +19,16 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 1. **Google Colab Girişi:**
    - [Google Colab](https://colab.research.google.com/)'a gidin ve Google hesabınıza giriş yapın.
 
-2. **Proje Ekleme:**
+2. **Projeyi Ekleme:**
    - Sol üst köşede bulunan "Dosya" menüsünden "Yeni Notebook" seçeneğini kullanarak yeni bir Colab Notebook oluşturun.
    - GitHub'dan kopyaladığınız kodu Colab Notebook içine ekleyin.
+  
+3. **Veri Setini Yükleme:**
+   - Google Drive'ınıza gidin ve veri setinizi yükleyin veya sürükleyip bırakın.
 
-3. **Veri Seti Yolu Belirleme:**
+4. **Veri Seti Yolu Belirleme:**
    - Kodun aşağıdaki satırında yüklediğiniz dosyanın yolunu değiştirin.
-       from google.colab import drive
-       drive.mount('/content/gdrive')
+
+      DATA = '/gdrive/MyDrive/odev_dosya/Banana_Ripeness_Classification'
 
 
