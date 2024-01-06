@@ -2,22 +2,22 @@
 
 ℹ️ Dersin Kodu: YAZ20411  
 ℹ️ Dersin Adı: DERİN ÖĞRENME  
-ℹ️ Dersin Öğretim Elemanı: Öğr. Gör. Dr. Fatih BAL Github | Web Sayfası  
+ℹ️ Dersin Öğretim Elemanı: Öğr. Gör. Dr. Fatih BAL [Github](https://github.com/balfatih) | [Web Sayfası](https://balfatih.github.io/)  
 
 Grup Bilgileri
 
 | Öğrenci No  | Adı Soyadı           | Bölüm               | Proje Grup No | Grup Üyelerinin Github Profilleri |
 |-------------|----------------------|---------------------|---------------|-----------------------------------|
-| 1190505070  | İsmail KOÇ           | Yazılım Mühendisliği| PROJE_1       | [Github](https://github.com/isody10)   |
-| 987654321   | Öğrenci Adı Soyadı   | Yazılım Mühendisliği| PROJE_1       | [Github](https://github.com/ogrenci1)   |
-| 456789123   | Öğrenci Adı Soyadı   | Yazılım Mühendisliği| PROJE_1       | [Github](https://github.com/ogrenci2)   |
-
+| 1190505070  | İsmail KOÇ           | Yazılım Mühendisliği| PROJE_14      | [Github](https://github.com/isody10)   |
+| 1190505038  | Sergen AYTUĞ CAN     | Yazılım Mühendisliği| PROJE_14      | [Github]()  |
+| 1190505049  | Başak Şimşek         | Yazılım Mühendisliği| PROJE_14      | [Github]()  |
+| 1200505052  | Taner Kaynar         | Yazılım Mühendisliği| PROJE_14      | [Github]()   |
 
 ## Proje Açıklaması
 
 Bu proje, muz meyvesinin farklı gelişim evrelerini sınıflandırmak için kullanılan bir yapay zeka modelini içermektedir. CNN, Transfer Learning ve Yapay Sinir Ağı (ANN) kullanılarak, Python programlama dili ile geliştirilmiştir.
 
-## Proje Ne İşe Yarar?
+## Ne İşe Yarar?
 
 Bu proje, muz meyvesinin görsel verilerini kullanarak, meyvenin farklı gelişim evrelerini sınıflandırmak için bir model içerir. Bu, ürün kalitesini değerlendirmek veya üretim süreçlerini optimize etmek için kullanılabilir.
 
@@ -49,7 +49,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
    - Farklı bir veri seti kullanılacaksa veya kod değiştirilecekse veri setindeki kategori isimlerini uygun isimlerle değiştirmeniz veya kaldırmanız gerekecektir.
      KATEGORILER =  ['overripe', 'ripe', 'rotten', 'unripe']
      
-5. **Proje Hiperparametreleri ve Açıklamaları:**
+5. **Proje Hiperparametreleri ve Açıklamaları**
    
    - Eğitim Verisi:
      Daha fazla eğitim verisi genellikle daha iyi genelleme sağlar ancak bu, daha uzun eğitim süreleri gerektirebilir.
