@@ -17,7 +17,7 @@ Bu proje, muz meyvesinin görsel verilerini kullanarak, meyvenin farklı gelişi
 Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağıda projeyi çalıştırmak için adımları bulabilirsiniz:
 
 1. **Google Colab Girişi:**
-   - Google Colab üzerine [buradan](https://colab.research.google.com/) gidin ve Google hesabınıza giriş yapın.
+   - [Google Colab](https://colab.research.google.com/)'a gidin ve Google hesabınıza giriş yapın.
 
 2. **Proje Ekleme:**
    - Sol üst köşede bulunan "Dosya" menüsünden "Yeni Notebook" seçeneğini kullanarak yeni bir Colab Notebook oluşturun.
