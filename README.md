@@ -6,7 +6,7 @@ Bu proje, muz meyvesinin farklı gelişim evrelerini sınıflandırmak için kul
 
 Bu proje, muz meyvesinin görsel verilerini kullanarak, meyvenin farklı gelişim evrelerini sınıflandırmak için bir model içerir. Bu, ürün kalitesini değerlendirmek veya üretim süreçlerini optimize etmek için kullanılabilir.
 
-## Neden Faydalıdır?
+## Neler yapılabilir?
 
 - Tarım endüstrisinde, meyve gelişim evrelerini otomatik olarak sınıflandırabilir.
 - Ürün kalitesini artırabilir ve iş süreçlerini optimize edebilir.
@@ -30,8 +30,11 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
    - Kodun aşağıdaki satırında yüklediğiniz dosyanın yolunu değiştirin.
 
      DATA = '/gdrive/MyDrive/Banana_Ripeness_Classification'
+
+   - Farklı bir veri seti kullanılacaksa veya kod değiştirilecekse veri setindeki kategori isimlerini uygun isimlerle değiştirmeniz veya kaldırmanız gerekecektir.
+     KATEGORILER =  ['overripe', 'ripe', 'rotten', 'unripe']
      
-4. **Proje Hiperparametreleri ve Açıklamaları:**
+5. **Proje Hiperparametreleri ve Açıklamaları:**
    
    - Eğitim Verisi:
      Daha fazla eğitim verisi genellikle daha iyi genelleme sağlar ancak bu, daha uzun eğitim süreleri gerektirebilir.
@@ -52,3 +55,20 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
      
    - verbose: Eğitim sırasında ne kadar çıktı almak istediğinize bağlı olarak bu değeri ayarlayabilirsiniz. Daha fazla çıktı, eğitim sürecini daha ayrıntılı olarak gösterir, ancak fazla detay bazen karışıklığa         neden olabilir.
      verbose=0
+
+6. **Sonuçlar:**
+
+Toplam Çalışma Zamanı: ~ 9 saat
+
+   - İlk Model (GridSearchCV ile Hiperparametre Ayarlaması):
+     En iyi parametreler: {'optimizer': 'adam'}
+     Test başarısı: 0.881 (88.1%)
+     Sınıflandırma raporu ve karmaşıklık matrisi: İyi performans, özellikle 'overripe' ve 'rotten' sınıfları için yüksek doğruluk.
+
+   - Transfer Learning Modeli (ResNet50):
+     Test başarısı: 0.800 (80%)
+     Sınıflandırma raporu ve karmaşıklık matrisi: İlk modele göre biraz daha düşük performans, özellikle 'ripe' sınıfında daha düşük doğruluk.
+
+   - Yapay Sinir Ağı Modeli:
+     Test başarısı: 0.334 (33.4%)
+     Sınıflandırma raporu ve karmaşıklık matrisi: Diğer modellere göre çok daha düşük performans, özellikle 'overripe', 'ripe', ve 'rotten' sınıflarında çok düşük doğruluk.
