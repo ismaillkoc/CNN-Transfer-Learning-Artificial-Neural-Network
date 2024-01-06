@@ -1,6 +1,6 @@
 # Python ile Muz Meyvesi Gelişim Evreleri Sınıflandırması: CNN, Transfer Learning ve Yapay Sinir Ağı
 
-Bu proje, muz meyvesinin farklı gelişim evrelerini sınıflandırmak için kullanılan bir yapay zeka modelini içermektedir. CNN, Transfer Learning ve Yapay Sinir Ağı (ANN) yaklaşımları kullanılarak geliştirilmiştir.
+Bu proje, muz meyvesinin farklı gelişim evrelerini sınıflandırmak için kullanılan bir yapay zeka modelini içermektedir. CNN, Transfer Learning ve Yapay Sinir Ağı (ANN) kullanılarak geliştirilmiştir.
 
 ## Proje Ne İşe Yarar?
 
@@ -8,7 +8,7 @@ Bu proje, muz meyvesinin görsel verilerini kullanarak, meyvenin farklı gelişi
 
 ## Neden Faydalıdır?
 
-- Tarım endüstrisinde, meyve gelişim evrelerini otomatik olarak sınıflandırma imkanı sunar.
+- Tarım endüstrisinde, meyve gelişim evrelerini otomatik olarak sınıflandırabilir.
 - Ürün kalitesini artırabilir ve iş süreçlerini optimize edebilir.
 - Makine öğrenimi ve görüntü sınıflandırma konularında ilgilenenler için eğitim amacı taşır.
 
@@ -29,7 +29,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 4. **Veri Seti Yolu Belirleme:**
    - Kodun aşağıdaki satırında yüklediğiniz dosyanın yolunu değiştirin.
 
-      DATA = '/gdrive/MyDrive/Banana_Ripeness_Classification'
+     DATA = '/gdrive/MyDrive/Banana_Ripeness_Classification'
      
 4. **Proje Hiperparametreleri ve Açıklamaları:**
    
