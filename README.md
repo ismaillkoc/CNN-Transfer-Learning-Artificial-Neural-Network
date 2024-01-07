@@ -36,7 +36,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 
 2. **Projeyi Ekleme:**
    - Sol üst köşede bulunan "Dosya" menüsünden "Yeni Notebook" seçeneğini kullanarak yeni bir Colab Notebook oluşturun.
-   - GitHub'dan kopyaladığınız kodu Colab Notebook içine ekleyin.
+   - README.md dosyası iletişim kısmında bulunan proje linklerine giderek veya GitHub'dan kopyalayarak kodu Colab Notebook içine ekleyin.
   
 3. **Veri Setini Yükleme:**
    - [Google Drive](https://drive.google.com/)'ınıza gidin ve veri setinizi yükleyin veya sürükleyip bırakın.
@@ -48,7 +48,9 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
 
    - Farklı bir veri seti kullanılacaksa veya kod değiştirilecekse veri setindeki kategori isimlerini uygun isimlerle değiştirmeniz veya kaldırmanız gerekecektir.  
 
-     KATEGORILER =  ['overripe', 'ripe', 'rotten', 'unripe']
+     KATEGORILER =  ['overripe', 'ripe', 'rotten', 'unripe']  
+
+   - Daha sonra sol üst kısımda bulunan çalıştır tuşuna basarak kodunuzu çalıştırabilirsiniz.
      
 5. **Proje Hiperparametreleri ve Açıklamaları**
    
@@ -56,7 +58,7 @@ Bu proje, Google Colab üzerinde Python kullanılarak geliştirilmiştir. Aşağ
      Daha fazla eğitim verisi genellikle daha iyi genelleme sağlar ancak bu, daha uzun eğitim süreleri gerektirebilir.
      
    - Test ve Validation Veri Oranları:
-     Veri setinizin boyutuna ve bütünlüğüne bağlı olarak, test ve validation için ayrılan veri oranlarını değiştirebilirsiniz. Daha büyük bir test seti, modelin gerçek performansını daha iyi                            değerlendirmenize yardımcı olabilir.
+     Veri setinizin boyutuna ve bütünlüğüne bağlı olarak, test ve validation için ayrılan veri oranlarını değiştirebilirsiniz. Daha büyük bir test seti, modelin gerçek performansını daha iyi                           değerlendirmenize yardımcı olabilir.
      
      Örnek olarak koddaki "test_size=0.2" değeri veri setinin %80'i Eğitim %20'si Test olarak kullanır.
      
