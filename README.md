@@ -8,7 +8,7 @@ Grup Bilgileri
 
 | Öğrenci No  | Adı Soyadı           | Bölüm               | Proje Grup No | Grup Üyelerinin Github Profilleri |
 |-------------|----------------------|---------------------|---------------|-----------------------------------|
-| 1190505070  | İsmail KOÇ           | Yazılım Mühendisliği| PROJE_14      | [Github](https://github.com/isody10)   |
+| 1190505070  | İsmail KOÇ           | Yazılım Mühendisliği| PROJE_14      | [Github](https://github.com/ismaillkoc)   |
 | 1190505038  | Sergen AYTUĞ CAN     | Yazılım Mühendisliği| PROJE_14      | [Github](https://github.com/SwartzSego)  |
 | 1190505049  | Başak ŞİMŞEK         | Yazılım Mühendisliği| PROJE_14      | [Github]()  |
 | 1200505052  | Taner KAYNAR         | Yazılım Mühendisliği| PROJE_14      | [Github]()   |
